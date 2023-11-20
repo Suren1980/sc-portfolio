@@ -23,7 +23,7 @@ const Navbar = () => {
             src={Logo}
             alt="Manish Chawla"
             title="Manish Chawla"
-            style={{ width: "100px", marginTop: "20px" }}
+            style={{ width: "100px", marginTop: "10px" }}
             className="cursor-pointer"
           />
         </Link>
